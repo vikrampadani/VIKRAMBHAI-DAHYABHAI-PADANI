@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 16 Sacred Japa Mala Beads in a Circle -->
+    <!-- Angles 0 to 337.5 deg around (54, 54) radius 27 -->
+    <path android:fillColor="#FFE082" android:pathData="M 81,54 A 2.5,2.5 0 1,0 81,54.01 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 78.9,64.3 A 2.5,2.5 0 1,0 78.9,64.31 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 73.1,73.1 A 2.5,2.5 0 1,0 73.1,73.11 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 64.3,78.9 A 2.5,2.5 0 1,0 64.3,78.91 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 54,81 A 2.5,2.5 0 1,0 54,81.01 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 43.7,78.9 A 2.5,2.5 0 1,0 43.7,78.91 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 34.9,73.1 A 2.5,2.5 0 1,0 34.9,73.11 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 29.1,64.3 A 2.5,2.5 0 1,0 29.1,64.31 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 27,54 A 2.5,2.5 0 1,0 27,54.01 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 29.1,43.7 A 2.5,2.5 0 1,0 29.1,43.71 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 34.9,34.9 A 2.5,2.5 0 1,0 34.9,34.91 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 43.7,29.1 A 2.5,2.5 0 1,0 43.7,29.11 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 54,27 A 2.5,2.5 0 1,0 54,27.01 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 64.3,29.1 A 2.5,2.5 0 1,0 64.3,29.11 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 73.1,34.9 A 2.5,2.5 0 1,0 73.1,34.91 Z" />
+    <path android:fillColor="#FFE082" android:pathData="M 78.9,43.7 A 2.5,2.5 0 1,0 78.9,43.71 Z" />
+    
+    <!-- Sumeru (Head bead at top) -->
+    <path android:fillColor="#FFD54F" android:pathData="M 54,25 A 3.5,3.5 0 1,0 54,25.01 Z" />
+    <path android:fillColor="#FFD54F" android:pathData="M 54,21 L 52,24 L 56,24 Z" />
+
+    <!-- Sacred Om (ॐ) Silhouette in center -->
+    <!-- Top Bindu (dot) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 65,37.5 A 2.2,2.2 0 1,0 65,37.51 Z" />
+    <!-- Chandra (Crescent moon under bindu) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 60.5,41.2 C 63,43 67,43 69.5,41.2 C 68,43.8 62,43.8 60.5,41.2 Z" />
+
+    <!-- Main Om Curves (3-like body, tail, and right loop) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 44.5,40.5 C 47,38 52,38.5 53.5,41.5 C 55,44.5 53,48 49,49.5 C 54,51 56,56 54.5,60 C 52.5,65 45,66 40,63.5 C 37,62 36,59 38,57.5 C 40,56 42,58 44,59.5 C 47,61.5 50.5,60 51.5,57.5 C 52.5,55 50.5,52 46.5,52.5 L 44,51 C 47.5,49.5 50,47 49,44 C 48,41.5 45,41 43,42.5 C 41.5,43.5 39.5,42.5 40.5,41 C 41.5,39.8 43,40.2 44.5,40.5 Z" />
+
+    <!-- Om right loop and ascending tail -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 48.5,50 C 52,48 58,48 61,51.5 C 64,55 63,60 60,63.5 C 58.5,65 56.5,64 57.5,62.5 C 60,59.5 60.5,56 58.5,53.5 C 56.5,51.5 52,51.5 49,53 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 60,51 C 63,47 67,45 70,44.5 C 71.5,44.2 71.5,46.5 70,46.8 C 67,47.5 64,49.5 61.5,53 Z" />
+
+</vector>

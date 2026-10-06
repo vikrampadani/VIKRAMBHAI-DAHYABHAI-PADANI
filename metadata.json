@@ -1,0 +1,7 @@
+{
+  "name": "મંત્ર જપ – Mantra Jap",
+  "description": "A simple, beautiful, peaceful, offline-first Hindu mantra chanting and japa counter app for Gujarati and English users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
